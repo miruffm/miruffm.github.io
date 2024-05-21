@@ -44,16 +44,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://miru-ffm.org/authors/thomas-a.-wichelhaus/</link>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/thomas-a.-wichelhaus/</guid>
-      <description>&lt;p&gt;Thomas A. Wichelhaus is Professor for Microbiology at the Institute for Medical Microbiology and Infection Control at University Hospital, Frankfurt. He is involved in different fields of clinical microbiology. As head of the diagnostic laboratory for Mycobacteria, he is highly interested in mycobacterial diseases such as NTM infections.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Christina Smaczny</title>
       <link>https://miru-ffm.org/authors/christina-smaczny/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
@@ -104,6 +94,15 @@
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/authors/sonke-andres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas A. Wichelhaus</title>
+      <link>https://miru-ffm.org/authors/thomas-a.-wichelhaus/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/thomas-a.-wichelhaus/</guid>
       <description></description>
     </item>
     
