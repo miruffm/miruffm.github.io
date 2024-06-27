@@ -7,10 +7,64 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mycobacterium malmoense</title>
+      <link>https://miru-ffm.org/tags/mycobacterium-malmoense/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/mycobacterium-malmoense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>non-tuberculous mycobacteria</title>
+      <link>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NTM</title>
+      <link>https://miru-ffm.org/tags/ntm/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/ntm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ntmscope_meta</title>
+      <link>https://miru-ffm.org/tags/ntmscope_meta/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/ntmscope_meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SGM</title>
+      <link>https://miru-ffm.org/tags/sgm/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/sgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slow-growing mycobacteria</title>
+      <link>https://miru-ffm.org/tags/slow-growing-mycobacteria/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/slow-growing-mycobacteria/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mycobacterium avium complex</title>
@@ -31,15 +85,6 @@
     </item>
     
     <item>
-      <title>Mycobacterium malmoense</title>
-      <link>https://miru-ffm.org/tags/mycobacterium-malmoense/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/mycobacterium-malmoense/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mycobacterium simiae</title>
       <link>https://miru-ffm.org/tags/mycobacterium-simiae/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
@@ -54,42 +99,6 @@
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/mycobacterium-xenopi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>non-tuberculous mycobacteria</title>
-      <link>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NTM</title>
-      <link>https://miru-ffm.org/tags/ntm/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/ntm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SGM</title>
-      <link>https://miru-ffm.org/tags/sgm/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/sgm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>slow-growing mycobacteria</title>
-      <link>https://miru-ffm.org/tags/slow-growing-mycobacteria/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/slow-growing-mycobacteria/</guid>
       <description></description>
     </item>
     

@@ -2,10 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://miru-ffm.org/authors/lisa-marschall/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
+    <loc>https://miru-ffm.org/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/mycobacterium-malmoense/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/news/post4/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/ntm/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/ntmscope_meta/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/news/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/sgm/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/slow-growing-mycobacteria/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/nils-wetzstein/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/publication_types/2/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/christoph-lange/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/publication/yjinf_2024/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/publication_types/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/publication/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/troels-lillebaek/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/victor-naestholt-dahl/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/lisa-marschall/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/raja-idris/</loc>
@@ -17,13 +71,7 @@
     <loc>https://miru-ffm.org/authors/thomas-anton/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miru-ffm.org/publication_types/2/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://miru-ffm.org/authors/ann-sophie-zielbauer/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/authors/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/publication/scirep_2024/</loc>
@@ -41,16 +89,10 @@
     <loc>https://miru-ffm.org/authors/maria-j.g.t.-vehreschild/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miru-ffm.org/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://miru-ffm.org/tags/mycobacterium-avium-complex/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/mycobacterium-kansasii/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/mycobacterium-malmoense/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/mycobacterium-simiae/</loc>
@@ -62,31 +104,7 @@
     <loc>https://miru-ffm.org/news/post3/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/ntm/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/news/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/publication_types/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/publication/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/sgm/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://miru-ffm.org/authors/simon-s.-martin/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/slow-growing-mycobacteria/</loc>
-    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/thomas-a.-wichelhaus/</loc>
