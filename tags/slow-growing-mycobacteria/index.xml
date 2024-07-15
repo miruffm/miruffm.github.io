@@ -7,10 +7,40 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/tags/slow-growing-mycobacteria/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New publication in Genome Medicine</title>
+      <link>https://miru-ffm.org/news/post5/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/news/post5/</guid>
+      <description>&lt;img src=&#34;figure2.png&#34;&gt;
+&lt;br&gt;
+The &lt;i&gt;Mycobacterium avium&lt;/i&gt; complex comprises the most frequent non-tuberculous mycobacteria in Europe. &lt;i&gt;M. chimaera&lt;/i&gt;, &lt;i&gt;M. intracellulare&lt;/i&gt;, and &lt;i&gt;M. avium&lt;/i&gt; are clinically most relevant.  
+&lt;br&gt;&lt;br&gt;
+In this new publication, we present a clinico-genomic dataset of more than 400 patients from Germany and Continental Europe. 
+&lt;br&gt;&lt;br&gt;
+You can find the paper here, at 
+&lt;a href=&#34;https://miru-ffm.org/publication/gm_2024&#34;&gt;miru-ffm.org&lt;/a&gt;, &lt;a href=&#34;https://rdcu.be/dNhDe&#34;&gt; the journal&#39;s homepage&lt;/a&gt;, or at &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/38982539/&#34;&gt;PubMed&lt;/a&gt;.
+</description>
+    </item>
+    
+    <item>
+      <title>Clinical and genomic features of Mycobacterium avium complex: a multi-national European study</title>
+      <link>https://miru-ffm.org/publication/gm_2024/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/publication/gm_2024/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://rdcu.be/dNhDe&#34;&gt;At Journal Homepage&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/38982539/&#34;&gt;At PubMed&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New publication in the Journal of Infection</title>
@@ -130,9 +160,11 @@ You can find the paper here, at
 &lt;br&gt;
 &lt;strong&gt;Methods&lt;/strong&gt;: Clinical and epidemiological data-analysis, whole genome sequencing, genotypic drug susceptibility testing.&lt;br&gt;
 &lt;br&gt;
-&lt;strong&gt;Status&lt;/strong&gt;: &lt;em&gt;Currently analysing&lt;/em&gt;&lt;/p&gt;
+&lt;strong&gt;Status&lt;/strong&gt;: &lt;em&gt;Data analysis completed&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;
-&lt;a href=&#34;https://miru-ffm.org/contact/&#34;&gt;More information&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.ebi.ac.uk/ena/browser/view/PRJEB70863&#34;&gt;European Nucleotide Archive&lt;/a&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://miru-ffm.org/ntmscope_mac_microreact&#34;&gt;Microreact project&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

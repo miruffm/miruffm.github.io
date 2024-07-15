@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Posts</title>
       <link>https://miru-ffm.org/news/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/news/</guid>
       <description></description>
@@ -24,10 +24,19 @@
     <item>
       <title>Publications</title>
       <link>https://miru-ffm.org/publication/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/publication/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://miru-ffm.org/ntmscope_mac_microreact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/ntmscope_mac_microreact/</guid>
+      <description>&lt;iframe src=&#34;https://www.microreact.org/project/ntmscope-mac&#34; width=&#34;100%&#34; height=&#34;800px&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
