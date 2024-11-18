@@ -7,10 +7,55 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mycobacterium tuberculosis</title>
+      <link>https://miru-ffm.org/tags/mycobacterium-tuberculosis/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/mycobacterium-tuberculosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TB</title>
+      <link>https://miru-ffm.org/tags/tb/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/tb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TDM</title>
+      <link>https://miru-ffm.org/tags/tdm/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/tdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>therapeutic drug monitoring</title>
+      <link>https://miru-ffm.org/tags/therapeutic-drug-monitoring/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/therapeutic-drug-monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuberculosis</title>
+      <link>https://miru-ffm.org/tags/tuberculosis/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/tuberculosis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MAC</title>
@@ -148,29 +193,11 @@
     </item>
     
     <item>
-      <title>TB</title>
-      <link>https://miru-ffm.org/tags/tb/</link>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/tb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>TB symposium</title>
       <link>https://miru-ffm.org/tags/tb-symposium/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/tb-symposium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tuberculosis</title>
-      <link>https://miru-ffm.org/tags/tuberculosis/</link>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/tuberculosis/</guid>
       <description></description>
     </item>
     
@@ -216,15 +243,6 @@
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/mtb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mycobacterium tuberculosis</title>
-      <link>https://miru-ffm.org/tags/mycobacterium-tuberculosis/</link>
-      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/mycobacterium-tuberculosis/</guid>
       <description></description>
     </item>
     

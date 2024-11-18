@@ -7,10 +7,29 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New publication in Infection</title>
+      <link>https://miru-ffm.org/news/post6/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/news/post6/</guid>
+      <description>&lt;img src=&#34;figure_2.jpg&#34;&gt;
+&lt;br&gt;
+Drug-sensitive TB (DS-TB) is treated with isoniazid, rifampicin, ethambutol, and pyrazinamide. Factors like fast-metabolizing enzymes, malabsorption, and drug interactions can influence serum drug levels. Current TB treatment guidelines recommend weight-adapted dosing without considering sex differences. 
+&lt;br&gt;&lt;br&gt;
+In this study, we examine drug levels of isoniazid and rifampicin in TB patients treated between 2019 and 2023 at our center focusing on sex-specific aspects.
+&lt;br&gt;&lt;br&gt;
+Interestingly, rifampicin levels were significantly lower in men compared to women, despite weight-adjusted dosing. 
+&lt;br&gt;&lt;br&gt;
+You can find the paper here, at 
+&lt;a href=&#34;https://miru-ffm.org/publication/infection_2024&#34;&gt;miru-ffm.org&lt;/a&gt;, &lt;a href=&#34;https://link.springer.com/article/10.1007/s15010-024-02424-5&#34;&gt; the journal&#39;s homepage&lt;/a&gt;, or at &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39531129/&#34;&gt;PubMed&lt;/a&gt;.
+</description>
+    </item>
     
     <item>
       <title>New publication in Genome Medicine</title>

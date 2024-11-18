@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,12 +15,95 @@
     <item>
       <title></title>
       <link>https://miru-ffm.org/authors/nils-wetzstein/</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/authors/nils-wetzstein/</guid>
       <description>&lt;p&gt;Nils Wetzstein is a consultant for infectious diseases at the University Hospital Frankfurt (UHF) and a guest scientist at the Research Center Borstel, Leibniz Lung Center. He has a keen interest in mycobacterial diseases and his research is primarily focussed on mycobacterial infections including MTB and NTM infections. Within the &lt;strong&gt;MIRU&lt;/strong&gt;, he uses a variety of bacteriological, epidemiological and bioinformatical methods to improve clinical management and patient care for MTB and NTM infected patients.
 &lt;br&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://miru-ffm.org/authors/raja-idris/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/raja-idris/</guid>
+      <description>&lt;p&gt;Raja Idris is an internal medicine resident and clinician scientist at the Department of Infectious Diseases of the University Hospital Frankfurt. Here, she is involved in the treatment and care of patients with different infectious and tropical diseases. In her research, she focuses on the epidemiology and management of patients with tuberculous or non-tuberculous mycobacterial disease.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://miru-ffm.org/authors/zaki-dayani/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/zaki-dayani/</guid>
+      <description>&lt;p&gt;Zaki Dayani is a MD thesis student at the Department of Infectious Diseases, University Hospital Frankfurt, working on PK/PD in the treatment of tuberculosis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ana M. Groh</title>
+      <link>https://miru-ffm.org/authors/ana-m.-groh/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/ana-m.-groh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>André Mohr</title>
+      <link>https://miru-ffm.org/authors/andre-mohr/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/andre-mohr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ann-Sophie Zielbauer</title>
+      <link>https://miru-ffm.org/authors/ann-sophie-zielbauer/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/ann-sophie-zielbauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eva Herrmann</title>
+      <link>https://miru-ffm.org/authors/eva-herrmann/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/eva-herrmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia Koepsell</title>
+      <link>https://miru-ffm.org/authors/julia-koepsell/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/julia-koepsell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria J.G.T. Vehreschild</title>
+      <link>https://miru-ffm.org/authors/maria-j.g.t.-vehreschild/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/maria-j.g.t.-vehreschild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas A. Wichelhaus</title>
+      <link>https://miru-ffm.org/authors/thomas-a.-wichelhaus/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/thomas-a.-wichelhaus/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -168,15 +251,6 @@
     </item>
     
     <item>
-      <title>Thomas A. Wichelhaus</title>
-      <link>https://miru-ffm.org/authors/thomas-a.-wichelhaus/</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/thomas-a.-wichelhaus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Thomas B. Anton</title>
       <link>https://miru-ffm.org/authors/thomas-b.-anton/</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
@@ -224,16 +298,6 @@
     
     <item>
       <title></title>
-      <link>https://miru-ffm.org/authors/raja-idris/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/raja-idris/</guid>
-      <description>&lt;p&gt;Raja Idris is an internal medicine resident and clinician scientist at the Department of Infectious Diseases of the University Hospital Frankfurt. Here, she is involved in the treatment and care of patients with different infectious and tropical diseases. In her research, she focuses on the epidemiology and management of patients with tuberculous or non-tuberculous mycobacterial disease.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://miru-ffm.org/authors/teodora-biciusca/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       
@@ -253,15 +317,6 @@
     </item>
     
     <item>
-      <title>Ann-Sophie Zielbauer</title>
-      <link>https://miru-ffm.org/authors/ann-sophie-zielbauer/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/ann-sophie-zielbauer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jennifer Gotta</title>
       <link>https://miru-ffm.org/authors/jennifer-gotta/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
@@ -271,29 +326,11 @@
     </item>
     
     <item>
-      <title>Julia Koepsell</title>
-      <link>https://miru-ffm.org/authors/julia-koepsell/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/julia-koepsell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lisa J. Juergens</title>
       <link>https://miru-ffm.org/authors/lisa-j.-juergens/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/authors/lisa-j.-juergens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maria J.G.T. Vehreschild</title>
-      <link>https://miru-ffm.org/authors/maria-j.g.t.-vehreschild/</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/maria-j.g.t.-vehreschild/</guid>
       <description></description>
     </item>
     
@@ -366,15 +403,6 @@
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/authors/christoph-stephan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eva Herrmann</title>
-      <link>https://miru-ffm.org/authors/eva-herrmann/</link>
-      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/eva-herrmann/</guid>
       <description></description>
     </item>
     
@@ -741,16 +769,6 @@
       
       <guid>https://miru-ffm.org/authors/pia-behrens/</guid>
       <description>&lt;p&gt;Pia Behrens is a medical doctor at the Department of Infectious Diseases of the University Hospital Frankfurt. Besides a keen interest in travel medicine, she is involved in the management of patients with tuberculosis and different clinical studies regarding TB.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://miru-ffm.org/authors/zaki-dayani/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/zaki-dayani/</guid>
-      <description>&lt;p&gt;Zaki Dayani is a MD thesis student at the Department of Infectious Diseases, University Hospital Frankfurt, working on PK/PD in the treatment of tuberculosis.&lt;/p&gt;
 </description>
     </item>
     
