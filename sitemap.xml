@@ -619,9 +619,15 @@
   </url><url>
     <loc>https://miru-ffm.org/tags/m.-xenopi/</loc>
   </url><url>
+    <loc>https://miru-ffm.org/tags/mdr/</loc>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/mdr-tb/</loc>
+  </url><url>
     <loc>https://miru-ffm.org/collaboration/mextb/</loc>
   </url><url>
     <loc>https://miru-ffm.org/collaboration/migrant_sensitive_care/</loc>
+  </url><url>
+    <loc>https://miru-ffm.org/collaboration/no1lost/</loc>
   </url><url>
     <loc>https://miru-ffm.org/project/registry/</loc>
   </url><url>
@@ -656,5 +662,7 @@
     <loc>https://miru-ffm.org/project/survery_tb/</loc>
   </url><url>
     <loc>https://miru-ffm.org/tags/water-samples/</loc>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/xdr/</loc>
   </url>
 </urlset>

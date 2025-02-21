@@ -499,6 +499,24 @@
     </item>
     
     <item>
+      <title>MDR</title>
+      <link>https://miru-ffm.org/tags/mdr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/mdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MDR TB</title>
+      <link>https://miru-ffm.org/tags/mdr-tb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/mdr-tb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pharmacodynamics</title>
       <link>https://miru-ffm.org/tags/pharmacodynamics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -576,6 +594,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/water-samples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XDR</title>
+      <link>https://miru-ffm.org/tags/xdr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/xdr/</guid>
       <description></description>
     </item>
     
