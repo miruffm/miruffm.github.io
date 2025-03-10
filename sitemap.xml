@@ -2,14 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://miru-ffm.org/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/news/post9/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/ntm/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/plasmids/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/news/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://miru-ffm.org/authors/nils-wetzstein/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/publication_types/2/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/christian-utpatel/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/florian-maurer/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/publication/gm_2025/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/ivan-barilar/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/margo-diricks/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/matthias-merker/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/publication_types/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/publication/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/stefan-niemann/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/viola-dreyer/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/deeplex/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
@@ -35,43 +86,19 @@
     <loc>https://miru-ffm.org/tags/less-common-ntm/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miru-ffm.org/authors/margo-diricks/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://miru-ffm.org/authors/matus-dohal/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/michaela-hromadkova/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miru-ffm.org/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://miru-ffm.org/authors/maria-skerenova/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/ntm/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/peter-kunc/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miru-ffm.org/publication_types/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/publication/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://miru-ffm.org/authors/simona-masiarova/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/authors/stefan-niemann/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/vera-dvorakova/</loc>
@@ -99,9 +126,6 @@
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/ntmscope-eco/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/news/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/news/post8/</loc>
@@ -213,9 +237,6 @@
     <lastmod>2024-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/udo-gotsch/</loc>
-    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/authors/viola-dreyer/</loc>
     <lastmod>2024-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/zaki-dayani/</loc>
@@ -458,9 +479,6 @@
     <loc>https://miru-ffm.org/authors/florian-p.-maurer/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miru-ffm.org/authors/matthias-merker/</loc>
-    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://miru-ffm.org/tags/mycobacterium-abscessus/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -578,6 +596,8 @@
     <loc>https://miru-ffm.org/authors/admin/</loc>
   </url><url>
     <loc>https://miru-ffm.org/authors/julia-feise/</loc>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/max-kevane-campbell/</loc>
   </url><url>
     <loc>https://miru-ffm.org/authors/pia-behrens/</loc>
   </url><url>

@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,12 +15,75 @@
     <item>
       <title></title>
       <link>https://miru-ffm.org/authors/nils-wetzstein/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/authors/nils-wetzstein/</guid>
       <description>&lt;p&gt;Nils Wetzstein is a consultant for infectious diseases at the University Hospital Frankfurt (UHF) and a guest scientist at the Research Center Borstel, Leibniz Lung Center. He has a keen interest in mycobacterial diseases and his research is primarily focussed on mycobacterial infections including MTB and NTM infections. Within the &lt;strong&gt;MIRU&lt;/strong&gt;, he uses a variety of bacteriological, epidemiological and bioinformatical methods to improve clinical management and patient care for MTB and NTM infected patients.
 &lt;br&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Christian Utpatel</title>
+      <link>https://miru-ffm.org/authors/christian-utpatel/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/christian-utpatel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Maurer</title>
+      <link>https://miru-ffm.org/authors/florian-maurer/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/florian-maurer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivan Barilar</title>
+      <link>https://miru-ffm.org/authors/ivan-barilar/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/ivan-barilar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margo Diricks</title>
+      <link>https://miru-ffm.org/authors/margo-diricks/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/margo-diricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthias Merker</title>
+      <link>https://miru-ffm.org/authors/matthias-merker/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/matthias-merker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Niemann</title>
+      <link>https://miru-ffm.org/authors/stefan-niemann/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/stefan-niemann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viola Dreyer</title>
+      <link>https://miru-ffm.org/authors/viola-dreyer/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/viola-dreyer/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -69,15 +132,6 @@
     </item>
     
     <item>
-      <title>Margo Diricks</title>
-      <link>https://miru-ffm.org/authors/margo-diricks/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/margo-diricks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Matúš Dohál</title>
       <link>https://miru-ffm.org/authors/matus-dohal/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
@@ -119,15 +173,6 @@
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/authors/simona-masiarova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stefan Niemann</title>
-      <link>https://miru-ffm.org/authors/stefan-niemann/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/stefan-niemann/</guid>
       <description></description>
     </item>
     
@@ -363,15 +408,6 @@
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/authors/udo-gotsch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Viola Dreyer</title>
-      <link>https://miru-ffm.org/authors/viola-dreyer/</link>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/viola-dreyer/</guid>
       <description></description>
     </item>
     
@@ -795,15 +831,6 @@
     </item>
     
     <item>
-      <title>Matthias Merker</title>
-      <link>https://miru-ffm.org/authors/matthias-merker/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/matthias-merker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Christian Hügel</title>
       <link>https://miru-ffm.org/authors/christian-hugel/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
@@ -1038,6 +1065,16 @@
       
       <guid>https://miru-ffm.org/authors/julia-feise/</guid>
       <description>&lt;p&gt;Julia Feise is an MD thesis student at the Division of Infectious Diseases, University Hospital Frankfurt, working on the implementation of an NTM-registry, as well as different meta-analytical approaches regarding less-common NTM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://miru-ffm.org/authors/max-kevane-campbell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/max-kevane-campbell/</guid>
+      <description>&lt;p&gt;Max Kevane-Campbell is a PhD student at the Department of Infectious Diseases and the Institute of Medical Microbiology and Infection Control, University Hospital Frankfurt. His research concentrates on resistance determinants, plasmid pathogenicity and phage therapy of non-tuberculous mycobacteria.&lt;/p&gt;
 </description>
     </item>
     
