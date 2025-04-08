@@ -20,6 +20,9 @@
     <loc>https://miru-ffm.org/authors/axel-braner/</loc>
     <lastmod>2025-04-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://miru-ffm.org/tags/cardiac-surgery/</loc>
+    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://miru-ffm.org/authors/inna-friesen/</loc>
     <lastmod>2025-04-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -35,7 +38,13 @@
     <loc>https://miru-ffm.org/</loc>
     <lastmod>2025-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miru-ffm.org/tags/mycobacterium-tuberculosis/</loc>
+    <loc>https://miru-ffm.org/tags/mycobacterium-chelonae/</loc>
+    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</loc>
+    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/ntm/</loc>
     <lastmod>2025-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/publication_types/</loc>
@@ -53,12 +62,6 @@
     <loc>https://miru-ffm.org/tags/</loc>
     <lastmod>2025-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miru-ffm.org/tags/tb/</loc>
-    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/tdm/</loc>
-    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://miru-ffm.org/authors/thomas-a.-wichelhaus/</loc>
     <lastmod>2025-04-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -68,16 +71,7 @@
     <loc>https://miru-ffm.org/authors/tomas-holubec/</loc>
     <lastmod>2025-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miru-ffm.org/tags/tuberculosis/</loc>
-    <lastmod>2025-04-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://miru-ffm.org/news/post9/</loc>
-    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</loc>
-    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/ntm/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/plasmids/</loc>
@@ -161,6 +155,9 @@
     <loc>https://miru-ffm.org/tags/lineage/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://miru-ffm.org/tags/mycobacterium-tuberculosis/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://miru-ffm.org/tags/ntmscope/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -168,6 +165,12 @@
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/news/post8/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/tb/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/tuberculosis/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/whole-genome-sequencing/</loc>
@@ -246,6 +249,9 @@
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/news/post6/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/tdm/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/therapeutic-drug-monitoring/</loc>
@@ -444,9 +450,6 @@
     <lastmod>2024-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/benjamin-f.-koch/</loc>
-    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/cardiac-surgery/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/christiana-graf/</loc>

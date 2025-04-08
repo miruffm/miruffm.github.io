@@ -13,45 +13,27 @@
     
     
     <item>
-      <title>Mycobacterium tuberculosis</title>
-      <link>https://miru-ffm.org/tags/mycobacterium-tuberculosis/</link>
+      <title>cardiac surgery</title>
+      <link>https://miru-ffm.org/tags/cardiac-surgery/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://miru-ffm.org/tags/mycobacterium-tuberculosis/</guid>
+      <guid>https://miru-ffm.org/tags/cardiac-surgery/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>TB</title>
-      <link>https://miru-ffm.org/tags/tb/</link>
+      <title>Mycobacterium chelonae</title>
+      <link>https://miru-ffm.org/tags/mycobacterium-chelonae/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://miru-ffm.org/tags/tb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TDM</title>
-      <link>https://miru-ffm.org/tags/tdm/</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/tdm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tuberculosis</title>
-      <link>https://miru-ffm.org/tags/tuberculosis/</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/tuberculosis/</guid>
+      <guid>https://miru-ffm.org/tags/mycobacterium-chelonae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>non-tuberculous mycobacteria</title>
       <link>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</guid>
       <description></description>
@@ -60,7 +42,7 @@
     <item>
       <title>NTM</title>
       <link>https://miru-ffm.org/tags/ntm/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/ntm/</guid>
       <description></description>
@@ -139,6 +121,15 @@
     </item>
     
     <item>
+      <title>Mycobacterium tuberculosis</title>
+      <link>https://miru-ffm.org/tags/mycobacterium-tuberculosis/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/mycobacterium-tuberculosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NTMscope</title>
       <link>https://miru-ffm.org/tags/ntmscope/</link>
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
@@ -153,6 +144,24 @@
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/ntmscope-eco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TB</title>
+      <link>https://miru-ffm.org/tags/tb/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/tb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuberculosis</title>
+      <link>https://miru-ffm.org/tags/tuberculosis/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/tuberculosis/</guid>
       <description></description>
     </item>
     
@@ -180,6 +189,15 @@
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/point-of-care-ultrasound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TDM</title>
+      <link>https://miru-ffm.org/tags/tdm/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/tdm/</guid>
       <description></description>
     </item>
     
@@ -342,15 +360,6 @@
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/mtb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cardiac surgery</title>
-      <link>https://miru-ffm.org/tags/cardiac-surgery/</link>
-      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/cardiac-surgery/</guid>
       <description></description>
     </item>
     
