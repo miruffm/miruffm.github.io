@@ -7,10 +7,29 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/tags/tb/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New projects launched</title>
+      <link>https://miru-ffm.org/news/post10/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/news/post10/</guid>
+      <description>&lt;p&gt;We are happy to launch two novel projects:
+&lt;br&gt;
+&lt;br&gt;
+&lt;img src=&#34;featured.png&#34;&gt;
+&lt;br&gt;
+&lt;b&gt;TRACE-TB&lt;/b&gt;: The aim of this project is to evaluate biomarkers for the diagnosis of mycobacterial diseases. Existing diagnostic methods are often too slow, inaccurate or carry the risk of spreading infection, which makes early and specific treatment difficult. The TRACE-TB project therefore aims to validate promising biomarker candidates in different clinical cohorts. In addition, new markers are to be investigated using a proteomics approach.
+&lt;br&gt;&lt;br&gt;
+&lt;img src=&#34;stride_tb.png&#34;&gt;
+&lt;br&gt;
+&lt;b&gt;STRIDE-TB&lt;/b&gt;: This project aims to explore sex and gender differences in tuberculosis by systematically evaluating and summarizing the available evidence. It will focus on key aspects such as tuberculosis epidemiology, manifestation, covering both extrapulmonary and pulmonary tuberculosis, and treatment factors such as monitoring, duration, and outcomes like mortality and TB sequelae. The goal is to understand whether and how tuberculosis progresses differently between men and women, how treatment responses vary, and what the health consequences are.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Presentations at ESCMID Global 2025 in Vienna</title>
