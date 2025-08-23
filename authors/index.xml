@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,12 +15,21 @@
     <item>
       <title></title>
       <link>https://miru-ffm.org/authors/nils-wetzstein/</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/authors/nils-wetzstein/</guid>
       <description>&lt;p&gt;Nils Wetzstein is a consultant for infectious diseases at the University Hospital Frankfurt (UHF) and a guest scientist at the Research Center Borstel, Leibniz Lung Center. He has a keen interest in mycobacterial diseases and his research is primarily focussed on mycobacterial infections including MTB and NTM infections. Within the &lt;strong&gt;MIRU&lt;/strong&gt;, he uses a variety of bacteriological, epidemiological and bioinformatical methods to improve clinical management and patient care for MTB and NTM infected patients.
 &lt;br&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Victor Naestholt Dahl</title>
+      <link>https://miru-ffm.org/authors/victor-naestholt-dahl/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/victor-naestholt-dahl/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -672,15 +681,6 @@
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/authors/troels-lillebaek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Victor Naestholt Dahl</title>
-      <link>https://miru-ffm.org/authors/victor-naestholt-dahl/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/victor-naestholt-dahl/</guid>
       <description></description>
     </item>
     
