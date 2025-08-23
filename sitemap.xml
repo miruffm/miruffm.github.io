@@ -14,12 +14,6 @@
     <loc>https://miru-ffm.org/publication/cmicom_2025/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miru-ffm.org/tags/extrapulmonary-tuberculosis/</loc>
-    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/lineage/</loc>
-    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://miru-ffm.org/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -39,12 +33,6 @@
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/victor-naestholt-dahl/</loc>
-    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/wgs/</loc>
-    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/whole-genome-sequencing/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/news/post10/</loc>
@@ -167,10 +155,19 @@
     <loc>https://miru-ffm.org/authors/vera-dvorakova/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://miru-ffm.org/tags/wgs/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/extrapulmonary-tuberculosis/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://miru-ffm.org/tags/ffmtbseq/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/level-up-tb/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/lineage/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/mycobacterium-tuberculosis/</loc>
@@ -183,6 +180,9 @@
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/news/post8/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/whole-genome-sequencing/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/news/post7/</loc>
