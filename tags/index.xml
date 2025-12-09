@@ -472,7 +472,7 @@
     </item>
     
     <item>
-      <title>Drug susceptibility testing</title>
+      <title>drug susceptibility testing</title>
       <link>https://miru-ffm.org/tags/drug-susceptibility-testing/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
@@ -504,6 +504,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/diagnostics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DST</title>
+      <link>https://miru-ffm.org/tags/dst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/dst/</guid>
       <description></description>
     </item>
     
