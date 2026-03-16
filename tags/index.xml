@@ -7,10 +7,46 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>POCUS</title>
+      <link>https://miru-ffm.org/tags/pocus/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/pocus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Point-of-care-ultrasound</title>
+      <link>https://miru-ffm.org/tags/point-of-care-ultrasound/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/point-of-care-ultrasound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TB</title>
+      <link>https://miru-ffm.org/tags/tb/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/tb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuberculosis</title>
+      <link>https://miru-ffm.org/tags/tuberculosis/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/tuberculosis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chip hybridization</title>
@@ -36,24 +72,6 @@
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/ntm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TB</title>
-      <link>https://miru-ffm.org/tags/tb/</link>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/tb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tuberculosis</title>
-      <link>https://miru-ffm.org/tags/tuberculosis/</link>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/tuberculosis/</guid>
       <description></description>
     </item>
     
@@ -252,24 +270,6 @@
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/whole-genome-sequencing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>POCUS</title>
-      <link>https://miru-ffm.org/tags/pocus/</link>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/pocus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Point-of-care-ultrasound</title>
-      <link>https://miru-ffm.org/tags/point-of-care-ultrasound/</link>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/point-of-care-ultrasound/</guid>
       <description></description>
     </item>
     
