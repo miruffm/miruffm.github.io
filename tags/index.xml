@@ -7,10 +7,82 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ESGMYC</title>
+      <link>https://miru-ffm.org/tags/esgmyc/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/esgmyc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESTS</title>
+      <link>https://miru-ffm.org/tags/ests/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/ests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PTB</title>
+      <link>https://miru-ffm.org/tags/ptb/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/ptb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pulmonary TB</title>
+      <link>https://miru-ffm.org/tags/pulmonary-tb/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/pulmonary-tb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>surgery</title>
+      <link>https://miru-ffm.org/tags/surgery/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/surgery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TB</title>
+      <link>https://miru-ffm.org/tags/tb/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/tb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TBnet</title>
+      <link>https://miru-ffm.org/tags/tbnet/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/tbnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuberculosis</title>
+      <link>https://miru-ffm.org/tags/tuberculosis/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/tuberculosis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>mycobacteriophage</title>
@@ -81,24 +153,6 @@
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/point-of-care-ultrasound/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TB</title>
-      <link>https://miru-ffm.org/tags/tb/</link>
-      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/tb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tuberculosis</title>
-      <link>https://miru-ffm.org/tags/tuberculosis/</link>
-      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/tuberculosis/</guid>
       <description></description>
     </item>
     
@@ -688,15 +742,6 @@
     </item>
     
     <item>
-      <title>Pulmonary TB</title>
-      <link>https://miru-ffm.org/tags/pulmonary-tb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/pulmonary-tb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>rapid growing mycobacteria</title>
       <link>https://miru-ffm.org/tags/rapid-growing-mycobacteria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -720,15 +765,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/rgm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Surgery</title>
-      <link>https://miru-ffm.org/tags/surgery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/surgery/</guid>
       <description></description>
     </item>
     

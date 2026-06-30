@@ -7,25 +7,15 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://miru-ffm.org/authors/max-kevane-campbell/</link>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/max-kevane-campbell/</guid>
-      <description>&lt;p&gt;Max Kevane-Campbell is a PhD student at the Department of Infectious Diseases and the Institute of Medical Microbiology and Infection Control, University Hospital Frankfurt. His research concentrates on resistance determinants, plasmid pathogenicity and phage therapy of non-tuberculous mycobacteria.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://miru-ffm.org/authors/nils-wetzstein/</link>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/authors/nils-wetzstein/</guid>
       <description>&lt;p&gt;Nils Wetzstein is a consultant for infectious diseases at the University Hospital Frankfurt (UHF) and a guest scientist at the Research Center Borstel, Leibniz Lung Center. He has a keen interest in mycobacterial diseases and his research is primarily focussed on mycobacterial infections including MTB and NTM infections. Within the &lt;strong&gt;MIRU&lt;/strong&gt;, he uses a variety of bacteriological, epidemiological and bioinformatical methods to improve clinical management and patient care for MTB and NTM infected patients.
@@ -36,10 +26,56 @@
     <item>
       <title></title>
       <link>https://miru-ffm.org/authors/raja-idris/</link>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/authors/raja-idris/</guid>
       <description>&lt;p&gt;Raja Idris is an internal medicine resident and clinician scientist at the Department of Infectious Diseases of the University Hospital Frankfurt. Here, she is involved in the treatment and care of patients with different infectious and tropical diseases. In her research, she focuses on the epidemiology and management of patients with tuberculous or non-tuberculous mycobacterial disease.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alessandro Bertani</title>
+      <link>https://miru-ffm.org/authors/alessandro-bertani/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/alessandro-bertani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gunar Günther</title>
+      <link>https://miru-ffm.org/authors/gunar-gunther/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/gunar-gunther/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorenzo Guglielmetti</title>
+      <link>https://miru-ffm.org/authors/lorenzo-guglielmetti/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/lorenzo-guglielmetti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simone Tunesi</title>
+      <link>https://miru-ffm.org/authors/simone-tunesi/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/simone-tunesi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://miru-ffm.org/authors/max-kevane-campbell/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/authors/max-kevane-campbell/</guid>
+      <description>&lt;p&gt;Max Kevane-Campbell is a PhD student at the Department of Infectious Diseases and the Institute of Medical Microbiology and Infection Control, University Hospital Frankfurt. His research concentrates on resistance determinants, plasmid pathogenicity and phage therapy of non-tuberculous mycobacteria.&lt;/p&gt;
 </description>
     </item>
     
@@ -966,15 +1002,6 @@
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/authors/claus-p.-kupper-tetzel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lorenzo Guglielmetti</title>
-      <link>https://miru-ffm.org/authors/lorenzo-guglielmetti/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/authors/lorenzo-guglielmetti/</guid>
       <description></description>
     </item>
     
