@@ -38,5 +38,22 @@ You can find the full publication via the &lt;a href=&#34;https://journals.asm.o
 </description>
     </item>
     
+    <item>
+      <title>NTMscope-X</title>
+      <link>https://miru-ffm.org/project/ntmscope-x/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/project/ntmscope-x/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mycobacterium xenopi&lt;/em&gt; causes non-tuberculous mycobacterial pulmonary disease (NTM-PD) that is difficult to treat. However, data on the genomic population structure, antimicrobial susceptibility, and the clinical significance of this pathogen remain scarce. We analyzed 76 clinical &lt;em&gt;M. xenopi&lt;/em&gt; isolates from 70 patients collected between 1995 and 2020 in Frankfurt am Main, Germany. All isolates underwent phenotypic drug susceptibility testing and whole-genome sequencing. Cluster analysis, including isolates from this study and all hitherto available high-quality &lt;em&gt;M. xenopi&lt;/em&gt; genome data sets in the Sequence Read Archive (n = 11), was performed by core genome multilocus sequence typing.
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Status&lt;/strong&gt;: &lt;em&gt;Data analysis completed&lt;/em&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.ebi.ac.uk/ena/browser/view/PRJEB95836?show=reads&#34;&gt;European Nucleotide Archive&lt;/a&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://miru-ffm.org/ntmscope_x_microreact&#34;&gt;Microreact project&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

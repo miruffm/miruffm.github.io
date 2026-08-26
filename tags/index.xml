@@ -7,10 +7,28 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NTM</title>
+      <link>https://miru-ffm.org/tags/ntm/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/ntm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TB</title>
+      <link>https://miru-ffm.org/tags/tb/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/tb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ESGMYC</title>
@@ -58,15 +76,6 @@
     </item>
     
     <item>
-      <title>TB</title>
-      <link>https://miru-ffm.org/tags/tb/</link>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/tb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>TBnet</title>
       <link>https://miru-ffm.org/tags/tbnet/</link>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
@@ -108,15 +117,6 @@
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NTM</title>
-      <link>https://miru-ffm.org/tags/ntm/</link>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/ntm/</guid>
       <description></description>
     </item>
     
@@ -274,7 +274,7 @@
     </item>
     
     <item>
-      <title>less-common NTM</title>
+      <title>less common NTM</title>
       <link>https://miru-ffm.org/tags/less-common-ntm/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
       
@@ -652,6 +652,15 @@
     </item>
     
     <item>
+      <title>M. abscessus</title>
+      <link>https://miru-ffm.org/tags/m.-abscessus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/m.-abscessus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>M. avium complex</title>
       <link>https://miru-ffm.org/tags/m.-avium-complex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -675,6 +684,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/m.-kansasii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. simiae complex</title>
+      <link>https://miru-ffm.org/tags/m.-simiae-complex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/m.-simiae-complex/</guid>
       <description></description>
     </item>
     

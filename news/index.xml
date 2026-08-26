@@ -7,10 +7,21 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data repository online</title>
+      <link>https://miru-ffm.org/news/post15/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/news/post15/</guid>
+      <description>&lt;p&gt;We are happy to have finally put online our novel &lt;a href=&#34;https://miru-ffm.org/data/&#34;&gt;data repository&lt;/a&gt;. Here, you can find sequencing data from our published studies and interactively choose isolates for your own comparative projects. If you have an further questions, do not hesitate to reach out. We will be happy to collaborate.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Results of survey on surgical therapy for pulmonary TB (SURVERY-TB) published</title>

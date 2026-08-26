@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Posts</title>
       <link>https://miru-ffm.org/news/</link>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/news/</guid>
       <description></description>
@@ -32,11 +32,47 @@
     
     <item>
       <title></title>
+      <link>https://miru-ffm.org/moma_cf_microreact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/moma_cf_microreact/</guid>
+      <description>&lt;iframe src=https://microreact.org/project/aMs8PjfffG52vmAfjYukXe-moma-cf&#34; width=&#34;100%&#34; height=&#34;800px&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://miru-ffm.org/ntmscope_eco_microreact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/ntmscope_eco_microreact/</guid>
+      <description>&lt;iframe src=&#34;https://microreact.org/project/e7k6Dq8iwA2d5UDNauoxjE-ntmscope-eco&#34; width=&#34;100%&#34; height=&#34;800px&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://miru-ffm.org/ntmscope_mac_microreact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/ntmscope_mac_microreact/</guid>
       <description>&lt;iframe src=&#34;https://www.microreact.org/project/ntmscope-mac&#34; width=&#34;100%&#34; height=&#34;800px&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://miru-ffm.org/ntmscope_s_microreact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/ntmscope_s_microreact/</guid>
+      <description>&lt;iframe src=&#34;https://www.microreact.org/project/ntmscope-s&#34; width=&#34;100%&#34; height=&#34;800px&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://miru-ffm.org/ntmscope_x_microreact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/ntmscope_x_microreact/</guid>
+      <description>&lt;iframe src=&#34;https://microreact.org/project/7qGtnf5pmRewKr5tvDqxXs-ntmscope-x&#34; width=&#34;100%&#34; height=&#34;800px&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
@@ -61,6 +97,81 @@ University Hospital Frankfurt &lt;br&gt;
 Department of Internal Medicine, Infectious Diseases &lt;br&gt;
 Theodor-Stern-Kai 7 &lt;br&gt;
 60590 Frankfurt &lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://miru-ffm.org/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/data/</guid>
+      <description>&lt;p&gt;Here, you can find the datasets generated in our studies. They are accessible via their bioproject numbers in the European Nucleotide archive (ENA) or directly through an interactive map where you can choose single isolates with more metadata. We are happy when these datasets are used for comparative studies or similar. Please think about citing the respective publication when using this data.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Project&lt;/th&gt;
+&lt;th&gt;Species&lt;/th&gt;
+&lt;th&gt;Sample Size&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;BioProject&lt;/th&gt;
+&lt;th&gt;Interactive Map &amp;amp; Phylogeny&lt;/th&gt;
+&lt;th&gt;Reference&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;NTMscope-MAC&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;M. avium&lt;/em&gt; complex&lt;/td&gt;
+&lt;td&gt;610&lt;/td&gt;
+&lt;td&gt;Germany, Switzerland, France&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ebi.ac.uk/ena/browser/view/PRJEB70863&#34;&gt;PRJEB70863&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://miru-ffm.org/ntmscope_mac_microreact&#34;&gt;Microreact project&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Wetzstein N, Diricks M, Anton TB, Andres S, Kuhns M, Kohl TA, et al. Clinical and genomic features of Mycobacterium avium complex: a multi-national European study. Genome Med. 2024;16: 86. doi:10.1186/s13073-024-01359-8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MOMA-CF&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;M. abscessus&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;168&lt;/td&gt;
+&lt;td&gt;Germany, multicentric&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ebi.ac.uk/ena/browser/view/PRJEB44160?show=reads&#34;&gt;PRJEB44160&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://miru-ffm.org/moma_cf_microreact&#34;&gt;Microreact project&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Wetzstein N, Diricks M, Kohl TA, Wichelhaus TA, Andres S, Paulowski L, et al. Molecular Epidemiology of Mycobacterium abscessus Isolates Recovered from German Cystic Fibrosis Patients. Microbiol Spectr. 2022; e0171422. doi:10.1128/SPECTRUM.01714-22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NTMscope-X&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;M. xenopi&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;76&lt;/td&gt;
+&lt;td&gt;Germany, monocentric&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ebi.ac.uk/ena/browser/view/PRJEB95836&#34;&gt;PRJEB95836&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://miru-ffm.org/ntmscope_x_microreact&#34;&gt;Microreact project&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Diricks M, Marschall L, Biciusca T, Zielbauer A-S, Kevane-Campbell M, Kuhns M, et al. Genomic population structure, antimicrobial susceptibility, and clinical features of Mycobacterium xenopi isolates, Frankfurt, Germany, 1995–2020. Nicol M, editor. J Clin Microbiol. 2026 [cited 10 Feb 2026]. doi:10.1128/jcm.01511-25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NTMscope-S&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;M. simiae&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;Germany, monocentric&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ebi.ac.uk/ena/browser/view/PRJEB66336?show=reads&#34;&gt;PRJEB66336&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://miru-ffm.org/ntmscope_s_microreact&#34;&gt;Microreact project&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Wetzstein N, Diricks M, Andres S, Kuhns M, Marschall L, Biciusca T, et al. Genomic diversity and clinical relevance of Mycobacterium simiae. ERJ Open Res. 2024;10: 00773–02023. doi:10.1183/23120541.00773-2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NTMscope-Eco&lt;/td&gt;
+&lt;td&gt;Various&lt;/td&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;td&gt;Germany, environmental, multiple households&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ebi.ac.uk/ena/browser/view/PRJEB88541&#34;&gt;PRJEB88541&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://miru-ffm.org/ntmscope_eco_microreact&#34;&gt;Microreact project&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Diricks M, Frank D, Friesen I, Niemann S, Wichelhaus TA, Wetzstein N, et al. Global lineages of non-tuberculous mycobacteria in residential water samples from Germany. BMC Microbiol. 2025;25. doi:10.1186/s12866-025-04563-7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;iframe src=&#34;https://microreact.org/project/ntmscope&#34; width=&#34;100%&#34; height=&#34;1000px&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
