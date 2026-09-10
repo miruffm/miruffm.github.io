@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>https://miru-ffm.org/publication/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Posts</title>
@@ -18,15 +27,6 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://miru-ffm.org/publication/</link>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/publication/</guid>
       <description></description>
     </item>
     

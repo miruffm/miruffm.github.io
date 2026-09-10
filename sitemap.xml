@@ -2,40 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://miru-ffm.org/news/post15/</loc>
-    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <loc>https://miru-ffm.org/authors/nils-wetzstein/</loc>
+    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/publication_types/2/</loc>
+    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/</loc>
+    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/margo-diricks/</loc>
+    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/</loc>
-    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/mycobacterium-abscessus/</loc>
+    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</loc>
+    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/ntm/</loc>
+    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/publication_types/</loc>
+    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/publication/</loc>
+    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/publication/chest_2026/</loc>
+    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/tags/</loc>
+    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/alexander-rosenthal/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/alina-grinev/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/alla-honcharenko/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/andrii-fedorec/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/dmytro-butov/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/julia-kilmnick/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/kateryna-batrak/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/liliya-abramova/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/michael-andrew-hoppes/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/publication/bmc_id_2026/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/mykhailo-kuzhko/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/natalia-borovok/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/olena-raznatovska/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/stefan-niemann/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/tetiana-butova/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/viola-dreyer/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/authors/vitalii-vekshyn/</loc>
+    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miru-ffm.org/news/post15/</loc>
     <lastmod>2026-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/news/</loc>
     <lastmod>2026-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miru-ffm.org/tags/</loc>
-    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://miru-ffm.org/tags/tb/</loc>
     <lastmod>2026-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miru-ffm.org/authors/nils-wetzstein/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://miru-ffm.org/authors/raja-idris/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/publication_types/2/</loc>
     <lastmod>2026-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/alessandro-bertani/</loc>
     <lastmod>2026-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/publication/ijtld_2026/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/authors/</loc>
     <lastmod>2026-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/esgmyc/</loc>
@@ -51,12 +120,6 @@
     <lastmod>2026-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/ptb/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/publication_types/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/publication/</loc>
     <lastmod>2026-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/pulmonary-tb/</loc>
@@ -93,9 +156,6 @@
     <lastmod>2026-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/mycobacteriophages/</loc>
-    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</loc>
     <lastmod>2026-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/phage/</loc>
@@ -206,9 +266,6 @@
     <loc>https://miru-ffm.org/tags/m.-xenopi/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://miru-ffm.org/authors/margo-diricks/</loc>
-    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://miru-ffm.org/authors/martin-kuhns/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -216,9 +273,6 @@
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/news/post12/</loc>
-    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/authors/stefan-niemann/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/sonke-andres/</loc>
@@ -312,9 +366,6 @@
     <lastmod>2025-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/matthias-merker/</loc>
-    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/authors/viola-dreyer/</loc>
     <lastmod>2025-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/tags/deeplex/</loc>
@@ -636,9 +687,6 @@
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/florian-p.-maurer/</loc>
-    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://miru-ffm.org/tags/mycobacterium-abscessus/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://miru-ffm.org/authors/christian-hugel/</loc>

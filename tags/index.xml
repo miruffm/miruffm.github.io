@@ -7,15 +7,33 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Mycobacterium abscessus</title>
+      <link>https://miru-ffm.org/tags/mycobacterium-abscessus/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/mycobacterium-abscessus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>non-tuberculous mycobacteria</title>
+      <link>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NTM</title>
       <link>https://miru-ffm.org/tags/ntm/</link>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/ntm/</guid>
       <description></description>
@@ -108,15 +126,6 @@
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/mycobacteriophages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>non-tuberculous mycobacteria</title>
-      <link>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</link>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/non-tuberculous-mycobacteria/</guid>
       <description></description>
     </item>
     
@@ -531,15 +540,6 @@
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://miru-ffm.org/tags/spatial-characteristics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mycobacterium abscessus</title>
-      <link>https://miru-ffm.org/tags/mycobacterium-abscessus/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://miru-ffm.org/tags/mycobacterium-abscessus/</guid>
       <description></description>
     </item>
     
