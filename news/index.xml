@@ -7,10 +7,27 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://miru-ffm.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New publication in PLOS Neglected Tropical Diseases</title>
+      <link>https://miru-ffm.org/news/post16/</link>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://miru-ffm.org/news/post16/</guid>
+      <description>&lt;img src=&#34;map.png&#34;&gt;
+&lt;br&gt;&lt;br&gt;
+Our new study analysing leprosy (Hansen’s disease) trends in Florida between 1996 and 2025 reveals a fifteen-fold increase in the annual incidence rate over the 30-year period. A total of 359 confirmed cases were reported across the state, highlighting the continued public health relevance of this neglected infectious disease in the United States.
+&lt;br&gt;&lt;br&gt;
+The analysis identified Brevard County as a hotspot, accounting for 113 cases during the study period. Notably, locally acquired infections represented the largest category among cases with a known mode of acquisition, underscoring the importance of understanding local transmission patterns.
+&lt;br&gt;&lt;br&gt;
+These findings provide valuable insights into the changing epidemiology of leprosy in Florida and highlight the need for continued surveillance, early detection, and increased awareness of Hansen’s disease.
+&lt;br&gt;&lt;br&gt;
+You can find the full publication via the &lt;a href=&#34;https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014820&#34;&gt;journal&#39;s homepage&lt;/a&gt;, &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/42993766/&#34;&gt;PubMed&lt;/a&gt;  or the &lt;a href=&#34;https://miru-ffm.org/publication/plos_ntd_2026&#34;&gt;MIRU website&lt;/a&gt;.</description>
+    </item>
     
     <item>
       <title>Data repository online</title>
